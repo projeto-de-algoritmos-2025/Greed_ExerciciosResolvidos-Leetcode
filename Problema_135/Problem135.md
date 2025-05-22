@@ -30,7 +30,7 @@ Retorne o **número mínimo de balas** que você precisa distribuir para satisfa
 - `0 <= ratings[i] <= 2 * 104^4`
 
 # Solução
-![Problema 135](x) <br>
+![Problema 135](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/9172213727040327a3ff27ae548fa276aa064c66/Problema_135/img/Candy.png) <br>
 *Problema 135 aceitação*
 
-[Solução](x)
+[Solução](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/9172213727040327a3ff27ae548fa276aa064c66/Problema_135/problem135.py)
