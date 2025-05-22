@@ -38,7 +38,7 @@ Dadas duas listas de inteiros `gas` e `cost`, retorne o índice da estação de 
 - `A entrada é gerada de forma que a resposta é única.`
 
 # Solução
-![Problema 134](x) <br>
+![Problema 134](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/d3537be1a8bf06524a7fafd69072effdf4a3cbdb/Problema_134/img/GasStation.png) <br>
 *Problema 134 aceitação*
 
-[Solução](x)
+[Solução](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/d3537be1a8bf06524a7fafd69072effdf4a3cbdb/Problema_134/problema134.py)

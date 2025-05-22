@@ -17,7 +17,7 @@ Os exercícios abordados são os seguintes:
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
 | 135              | [Candy](https://leetcode.com/problems/candy/description/)     | Difícil     | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/9172213727040327a3ff27ae548fa276aa064c66/Problema_135/problem135.py) |
 | x               | [x](x)               | Difícil      | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](x) |
-| 134               | [Gas Station](https://leetcode.com/problems/gas-station/?envType=problem-list-v2&envId=greedy)               | Médio       | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](x) |
+| 134               | [Gas Station](https://leetcode.com/problems/gas-station/?envType=problem-list-v2&envId=greedy)               | Médio       | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/d3537be1a8bf06524a7fafd69072effdf4a3cbdb/Problema_134/problema134.py) |
 | x               | [x](x)               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](x) |
 
 
