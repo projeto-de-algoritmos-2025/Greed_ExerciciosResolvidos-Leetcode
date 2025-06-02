@@ -16,19 +16,19 @@ Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
 | 135              | [Candy](https://leetcode.com/problems/candy/description/)     | Difícil     | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/9172213727040327a3ff27ae548fa276aa064c66/Problema_135/problem135.py) |
-| x               | [x](x)               | Difícil      | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](x) |
+| 1368               | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/?envType=problem-list-v2&envId=graph)               | Difícil      | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/tree/main/Problema_1368) |
 | 134               | [Gas Station](https://leetcode.com/problems/gas-station/?envType=problem-list-v2&envId=greedy)               | Médio       | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/d3537be1a8bf06524a7fafd69072effdf4a3cbdb/Problema_134/problema134.py) |
-| x               | [x](x)               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](x) |
+| 1462               | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/?envType=problem-list-v2&envId=graph)               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/tree/main/Problema_1462) |
 
 
 ## Screenshots
 ![Problema 135](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/9172213727040327a3ff27ae548fa276aa064c66/Problema_135/img/Candy.png) <br>
 *Problema 135 aceitação* <br> <br>
-![Problema x](x) <br>
+![Problema 1368](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/main/Problema_1368/image.png) <br>
 *Problema x aceitação* <br> <br>
 ![Problema 134](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/9172213727040327a3ff27ae548fa276aa064c66/Problema_134/img/GasStation.png) <br>
 *Problema 134 aceitação* <br> <br>
-![Problema x](x) <br>
+![Problema 1462](https://github.com/projeto-de-algoritmos-2025/Greed_ExerciciosResolvidos-Leetcode/blob/main/Problema_1462/image.png) <br>
 *Problema x aceitação* <br> <br>
 
 ## Instalação 
